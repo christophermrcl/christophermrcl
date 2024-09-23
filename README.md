@@ -3,8 +3,8 @@
 <table>
   <thead>
     <tr>
-      <th width="50%"><a>aaa</a></th>th>
-      <th width="50%"><a>aaa</a></th>th>
+      <th width="50%"><a>aaa</a></th>
+      <th width="50%"><a>aaa</a></th>
     </tr>
   </thead>
   <tbody>
