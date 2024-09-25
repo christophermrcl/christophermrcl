@@ -9,7 +9,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/christophermrcl/christophermrcl/main/img/soulshot.gif"></td>
+      <td><img src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif"></td>
       <td><img></td>
     </tr>
     <tr>
