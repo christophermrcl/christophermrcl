@@ -3,22 +3,15 @@
 <table>
   <thead>
     <tr>
-      <th width="50%"><a>aaa</a></th>
-      <th width="50%"><a>aaa</a></th>
+      <th width="100%"><a>Soul Shot</a></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><img src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif"/></td>
-      <td><img></td>
     </tr>
     <tr>
-      <td valign="text-top"></td>
-      <td valign="text-top"></td>
-    </tr>
-    <tr>
-      <td><a>Itch Page</td>
-      <td><a>Itch Page</td>
+      <td valign="text-top">FPS/Souls-like game inspired by <i>Remnant</i> series by <i>Gunfire Games</i>. Explore dungeon and defeat horror creature with guns.</td>
     </tr>
   </tbody>
 </table>
