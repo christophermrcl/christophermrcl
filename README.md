@@ -13,7 +13,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">FPS/Souls-like game inspired by <i>Remnant</i> series by <i>Gunfire Games</i>. Explore dungeon and defeat horror creature with guns.</td>
+      <td valign="text-top">FPS/Souls-like prototype game heavily inspired by <i>Remnant</i> series by <i>Gunfire Games</i>. Explore dungeon and defeat horror creature with guns.</td>
     </tr>
   </tbody>
 </table>
