@@ -8,7 +8,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><img src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif" style="margin:auto;"></td>
+      <td><img src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif" style="text-align:center;display:block;"></td>
     </tr>
     <tr>
       <td valign="text-top">FPS/Souls-like game inspired by <i>Remnant</i> series by <i>Gunfire Games</i>. Explore dungeon and defeat horror creature with guns.</td>
