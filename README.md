@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td valign="text-top">FPS/Souls-like prototype game heavily inspired by <i>Remnant</i> series by <i>Gunfire Games</i>. Explore dungeon and defeat horror creature with guns.</td>
-      <td valign="text-top">Railshooter game inspired by <i>Pokemon Snap</i> by <i>Nintendo</i>. Player is tasked to take photo of insects to complete their photo collection.</td>
+      <td valign="text-top">Railshooter game inspired by <i>Pokemon Snap</i> by <i>Nintendo</i>. Player is tasked to take photo of insects to complete their photo collection. <a href="https://github.com/christophermrcl/Entograph">Available here</a></td>
     </tr>
   </tbody>
 </table>
