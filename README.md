@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td valign="text-top">Side-Scrolling/Simulation game where player is tasked to clean the ocean. This game is made as BINUS Game Development Club Community Service activity, where I am responsible as the game programmer. <a href="https://bgdc.itch.io/seacleaner">This game is available on itch.io.</a></td>
-      <td valign="text-top">Action RPG prototype game, where player becomes a swordman and explore a fantasy world. The game is made as a showcase for my skill in using free 2D and 3D assets, and also using both shader and post processing to mimic <i>"HD-2D"</i> style, which name is popularized and trademarked by <i>Square Enix</i></td>
+      <td valign="text-top">Action RPG prototype game, where player becomes a swordman and explore a fantasy world. The game is made as a showcase for my skill in using free 2D and 3D assets, and also using both shader and post processing to mimic <i>"HD-2D"</i> style, which is popularized by <i>Square Enix</i></td>
     </tr>
   </tbody>
 </table>
