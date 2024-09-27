@@ -11,6 +11,8 @@
     <tr>
       <td>
         <img width="50%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif">
+      </td>
+      <td>
         <img width="50%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif">
       </td>
     </tr>
