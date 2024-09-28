@@ -13,7 +13,7 @@
         <img width="100%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif">
       </td>
       <td>
-        <img width="100%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif">
+        <img width="100%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/entograph.gif">
       </td>
     </tr>
     <tr>
