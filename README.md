@@ -18,7 +18,7 @@
     </tr>
     <tr>
       <td valign="text-top">FPS/Souls-like prototype game heavily inspired by <i>Remnant</i> series by <i>Gunfire Games</i>. Explore dungeon and defeat horror creature with guns. This game is made as a showcase for my skill in using free 3D assets to make an FPS game that looks polished.</td>
-      <td valign="text-top">Rail-Shooter/Photography game inspired by <i>Pokemon Snap</i> by <i>Nintendo</i>. Player is tasked to take photo of insects to complete their journal photo collection. This game is made as an assignment for Software Engineering project, where I am responsible as the game programmer and 3D artist. <a href="https://github.com/christophermrcl/Entograph">This game is available here.</a></td>
+      <td valign="text-top">Rail-Shooter/Photography game inspired by <i>Pokemon Snap</i>. Player is tasked to take photo of insects to complete their journal photo collection. This game is made as an assignment for Software Engineering project, where I am responsible as the game programmer and 3D artist. <a href="https://github.com/christophermrcl/Entograph">This game is available here.</a></td>
     </tr>
   </tbody>
   <thead>
@@ -30,7 +30,7 @@
   <tbody>
     <tr>
       <td>
-        <img width="100%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/soulshot.gif">
+        <img width="100%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/seacleaner.gif">
       </td>
       <td>
         <img width="100%" src="https://github.com/christophermrcl/christophermrcl/blob/main/img/swordofvilde.gif">
