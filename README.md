@@ -24,7 +24,7 @@
   <thead>
     <tr>
       <th width="50%"><a>SeaCleaner</a></th>
-      <th width="50%"><a>Sword of Vilde</a></th>
+      <th width="50%"><a>The Light that Call Us Home</a></th>
     </tr>
   </thead>
   <tbody>
@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td valign="text-top">Side-Scrolling/Simulation game where player is tasked to clean the ocean. This game is made as BINUS Game Development Club Community Service activity. <a href="https://bgdc.itch.io/seacleaner">This game is available on itch.io.</a></td>
-      <td valign="text-top">Action RPG prototype game, where player becomes a swordman and explore a fantasy world.</td>
+      <td valign="text-top">Placeholder for Capstone game.</td>
     </tr>
   </tbody>
 </table>
