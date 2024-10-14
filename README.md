@@ -37,7 +37,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="text-top">Side-Scrolling/Simulation game where player is tasked to clean the ocean. This game is made as BINUS Game Development Club Community Service activity. <a href="https://github.com/triscakepuff/SeaCleaner">This game is available on itch.io.</a></td>
+      <td valign="text-top">Side-Scrolling/Simulation game where player is tasked to clean the ocean. This game is made as BINUS Game Development Club Community Service activity. <a href="https://github.com/triscakepuff/SeaCleaner">Check the game here.</a></td>
       <td valign="text-top">Action-Adventure game with 2.5D visual style. The player is playing as a student transported into another world, where he must explore, solve puzzle and defeat enemies to find a way to go home. This is a game for Capstone Project.</td>
     </tr>
   </tbody>
