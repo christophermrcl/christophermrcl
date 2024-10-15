@@ -1,5 +1,5 @@
-## About
-Hi, I'm Christopher Marcellionel Young. I'm an undergraduate student at Bina Nusantara University, majoring in Game Application and Technology.
+## About Me
+I'm an undergraduate student at Bina Nusantara University, majoring in Game Application and Technology. I'm aspiring to be a game programmer, and currently proficient in using Unity.
 
 ## Things that I made:
 
