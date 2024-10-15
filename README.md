@@ -1,3 +1,6 @@
+## About
+Hi, I'm Christopher Marcellionel Young. I'm an undergraduate student at Bina Nusantara University, majoring in Game Application and Technology.
+
 ## Things that I made:
 
 <table style="text-align: center;">
