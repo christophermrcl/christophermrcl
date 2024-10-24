@@ -20,8 +20,8 @@ I'm an undergraduate student at Bina Nusantara University, majoring in Game Appl
       </td>
     </tr>
     <tr>
-      <td valign="text-top">FPS/Souls-like prototype game. Explore dungeon and defeat horror creature with guns.<a href="https://github.com/christophermrcl/soul-shot"> Check the game here.</a></td></td>
-      <td valign="text-top">Rail-Shooter/Photography game. Player is tasked to take photo of insects to complete their journal photo collection.<a href="https://github.com/christophermrcl/Entograph"> Check the game here.</a></td>
+      <td valign="text-top">FPS/Souls-like prototype game. Explore dungeon and defeat horror creature with guns. <a href="https://github.com/christophermrcl/soul-shot">Check the game here.</a></td></td>
+      <td valign="text-top">Rail-Shooter/Photography game. Player is tasked to take photo of insects to complete their journal photo collection. <a href="https://github.com/christophermrcl/Entograph">Check the game here.</a></td>
     </tr>
   </tbody>
   <thead>
